@@ -1,5 +1,5 @@
 # Project Overview
-<p> This is a repository, in simple terms this web page contains typical information or data stored in in HTML format.</p>
+<p> This is a repository, in simple terms this web page contains typical information or data stored in HTML format.</p>
 
 
 # Presentation
